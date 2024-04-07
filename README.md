@@ -1,3 +1,3 @@
-phpbb türkçeleştirme
+phpbb için phpbbtr.com türkçeleştirme çalışmaları
 
-phpBB 3.3.11
+phpBB sürümü: 3.3.11 için
