@@ -37,28 +37,28 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'CAPTCHA_QA'				=> 'Q&amp;A',
-	'CONFIRM_QUESTION_EXPLAIN'	=> 'This question is a means of preventing automated form submissions by spambots.',
-	'CONFIRM_QUESTION_WRONG'	=> 'You have provided an invalid answer to the question.',
-	'CONFIRM_QUESTION_MISSING'	=> 'Questions for the captcha could not be retrieved. Please contact a board administrator.',
+	'CAPTCHA_QA'			=> 'S&amp;C',
+	'CONFIRM_QUESTION_EXPLAIN'	=> 'Bu soru, spam botların otomatik form gönderimini önlemenin bir yoludur.',
+	'CONFIRM_QUESTION_WRONG'	=> 'Soruya geçersiz bir cevap verdiniz.',
+	'CONFIRM_QUESTION_MISSING'	=> 'Captcha\'ya ilişkin sorular alınamadı. Lütfen pano yöneticisiyle iletişime geçiniz.',
 
-	'QUESTION_ANSWERS'			=> 'Answers',
-	'ANSWERS_EXPLAIN'			=> 'Please enter valid answers to the question, one per line.',
-	'CONFIRM_QUESTION'			=> 'Question',
+	'QUESTION_ANSWERS'		=> 'Cevaplar',
+	'ANSWERS_EXPLAIN'		=> 'Lütfen her satıra bir tane olmak üzere soruya geçerli cevaplar giriniz.',
+	'CONFIRM_QUESTION'		=> 'Soru',
 
-	'ANSWER'					=> 'Answer',
-	'EDIT_QUESTION'				=> 'Edit Question',
-	'QUESTIONS'					=> 'Questions',
-	'QUESTIONS_EXPLAIN'			=> 'For every form submission where you have enabled the Q&amp;A plugin, users will be asked one of the questions specified here. To use this plugin at least one question must be set in the default language. These questions should be easy for your target audience to answer but beyond the ability of a bot capable of running a Google™ search. Only a single proper question is necessary. If you start receiving spam registrations, the question should be changed. Enable the strict setting if your question relies on mixed case, punctuation or whitespace.',
-	'QUESTION_DELETED'			=> 'Question deleted',
-	'QUESTION_LANG'				=> 'Language',
-	'QUESTION_LANG_EXPLAIN'		=> 'The language this question and its answers are written in.',
-	'QUESTION_STRICT'			=> 'Strict check',
-	'QUESTION_STRICT_EXPLAIN'	=> 'Enable to enforce mixed case, punctuation and whitespace.',
+	'ANSWER'			=> 'Cevap',
+	'EDIT_QUESTION'			=> 'Soruyu Düzenle',
+	'QUESTIONS'			=> 'Sorular',
+	'QUESTIONS_EXPLAIN'		=> 'Soru-Cevap eklentisini etkinleştirdiğiniz her form gönderiminde kullanıcılara burada belirtilen sorulardan biri sorulacaktır. Bu eklentiyi kullanmak için en az bir sorunun varsayılan dilde ayarlanması gerekir. Bu soruların yanıtlanması hedef kitleniz için kolay olmalı, ancak Google™ araması yapabilen bir botun yeteneğinin ötesinde olmalıdır. Yalnızca tek bir doğru soru gereklidir. Spam kayıtları almaya başlarsanız sorunun değiştirilmesi gerekir. Sorunuz büyük/küçük harf, noktalama işaretleri veya boşluklardan oluşuyorsa sıkı ayarı etkinleştiriniz.',
+	'QUESTION_DELETED'		=> 'Soru silindi',
+	'QUESTION_LANG'			=> 'Dil',
+	'QUESTION_LANG_EXPLAIN'		=> 'Bu soru ve cevaplarının yazılacağı dil',
+	'QUESTION_STRICT'		=> 'Sıkı denetim',
+	'QUESTION_STRICT_EXPLAIN'	=> 'Karışık büyük/küçük harf, noktalama işaretleri ve boşlukları zorunlu kılmayı etkinleştirin.',
 
-	'QUESTION_TEXT'				=> 'Question',
-	'QUESTION_TEXT_EXPLAIN'		=> 'The question presented to the user.',
+	'QUESTION_TEXT'			=> 'Soru',
+	'QUESTION_TEXT_EXPLAIN'		=> 'Kullanıcıya sunulan soru.',
 
-	'QA_ERROR_MSG'				=> 'Please fill in all fields and enter at least one answer.',
-	'QA_LAST_QUESTION'			=> 'You cannot delete all questions while the plugin is active.',
+	'QA_ERROR_MSG'			=> 'Lütfen tüm alanları doldurun ve en az bir cevap girin.',
+	'QA_LAST_QUESTION'		=> 'Eklenti aktifken tüm soruları silemezsiniz.',
 ));
