@@ -90,6 +90,6 @@ $lang = array_merge($lang, array(
 
 	'USER_GROUP_CHANGE'		=> '“%1$s” grubundan “%2$s” grubuna',
 	'USER_GROUP_DEMOTE'		=> 'Liderliği düşür',
-	'USER_GROUP_DEMOTE_CONFIRM'	=> 'Seçili grup için grup liderliğinden düşmek istediğinizden emin misiniz?',
+	'USER_GROUP_DEMOTE_CONFIRM'	=> 'Seçilen grup için grup liderliğinden düşmek istediğinize emin misiniz?',
 	'USER_GROUP_DEMOTED'		=> 'Liderliğiniz başarıyla düşürüldü.',
 ));
