@@ -89,7 +89,7 @@ $lang = array_merge($lang, array(
 	'NO_AUTH_PRINT_TOPIC'		=> 'Konuları yazdırma yetkisine sahip değilsiniz.',
 
 	'POLL_ENDED_AT'			=> 'Anket %s tarihinde sona eriyor',
-	'POLL_RUN_TILL'			=> 'Anket  %s tarihine kadar sürecek',
+	'POLL_RUN_TILL'			=> 'Anket %s tarihine kadar sürecek',
 	'POLL_VOTED_OPTION'		=> 'Bu seçeneğe oy verdiniz',
 	'POST_DELETED_RESTORE'		=> 'Bu mesaj silindi. Geri yüklenebilir.',
 	'PRINT_TOPIC'			=> 'Yazdırma görünümü',
