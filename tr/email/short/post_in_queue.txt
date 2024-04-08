@@ -2,7 +2,7 @@ Konu: Mesaj onayı gerekli - "{TOPIC_TITLE}"
 
 Merhaba {USERNAME},
 
-"{SITENAME}" üzerinde "{POST_SUBJECT}" mesaj onayı gerekiyor.
+"{SITENAME}" üzerinde "{POST_SUBJECT}" mesajının onaylanması gerekiyor.
 
 Mesajı görüntülemek isterseniz aşağıdaki bağlantıya tıklayın:
 {U_VIEW_POST}
