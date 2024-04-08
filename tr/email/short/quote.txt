@@ -1,13 +1,13 @@
-Subject: Quoted in "{TOPIC_TITLE}"
+Konu: "{TOPIC_TITLE}" konusunda alıntı
 
-Hello {USERNAME},
+Merhaba {USERNAME},
 
-"{AUTHOR_NAME}" quoted you in the topic "{TOPIC_TITLE}" at "{SITENAME}".
+"{SITENAME}" üzerinde "{AUTHOR_NAME}" tarafından "{TOPIC_TITLE}" konusunda alıntılandınız.
 
-If you want to view the quoted post, click the following link:
+Alıntılanan mesajı görüntülemek isterseniz aşağıdaki bağlantıya tıklayın:
 {U_VIEW_POST}
 
-If you no longer wish to receive updates about replies quoting you, please update your notification settings here:
+Sizden alıntı yapan yanıtlarla ilgili güncellemeleri artık almak istemiyorsanız, lütfen bildirim ayarlarınızı buradan güncelleyin:
 {U_NOTIFICATION_SETTINGS}
 
 {EMAIL_SIG}
