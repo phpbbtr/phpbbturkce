@@ -1,13 +1,13 @@
-Subject: Post approved - "{POST_SUBJECT}"
+Konu: Mesaj onaylandı - "{POST_SUBJECT}"
 
-Hello {USERNAME},
+Merhaba {USERNAME},
 
-Your post "{POST_SUBJECT}" at "{SITENAME}" was approved by a moderator or administrator.
+"{SITENAME}" üzerinde "{POST_SUBJECT}" mesajınız bir moderatör veya yönetici tarafından onaylandı.
 
-If you want to view the post, click the following link:
+Mesajı görüntülemek isterseniz aşağıdaki bağlantıya tıklayın:
 {U_VIEW_POST}
 
-If you want to view the topic, click the following link:
+Konuyu görüntülemek isterseniz aşağıdaki bağlantıya tıklayın:
 {U_VIEW_TOPIC}
 
 {EMAIL_SIG}
