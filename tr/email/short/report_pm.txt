@@ -1,10 +1,10 @@
-Subject: Private Message report - "{SUBJECT}"
+Konu: Özel mesaj raporu - "{SUBJECT}"
 
-Hello {USERNAME},
+Merhaba {USERNAME},
 
-A Private Message titled "{SUBJECT}" by "{AUTHOR_NAME}" at "{SITENAME}" was reported.
+"{SITENAME}" üzerinde "{AUTHOR_NAME}" tarafından "{SUBJECT}" başlıklı bir özel mesaj raporlandı.
 
-If you want to view the report, click the following link:
+Raporu görüntülemek isterseniz aşağıdaki bağlantıya tıklayın:
 {U_VIEW_REPORT}
 
 {EMAIL_SIG}
