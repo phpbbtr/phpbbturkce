@@ -1,13 +1,13 @@
-Subject: Topic needs approval - "{TOPIC_TITLE}"
+Konu: Konu onayı gerekli - "{TOPIC_TITLE}"
 
-Hello {USERNAME},
+Merhaba {USERNAME},
 
-The topic "{TOPIC_TITLE}" at "{SITENAME}" needs approval.
+"{SITENAME}" üzerinde "{TOPIC_TITLE}" konusunun onaylanması gerekiyor.
 
-If you want to view the topic, click the following link:
+Konuyu görmek isterseniz aşağıdaki bağlantıya tıklayın:
 {U_VIEW_TOPIC}
 
-If you want to view the forum, click the following link:
+Forumu görüntülemek isterseniz aşağıdaki bağlantıya tıklayın:
 {U_FORUM}
 
 {EMAIL_SIG}
