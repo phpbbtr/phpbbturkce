@@ -1,11 +1,11 @@
 
-The following is an email sent to you by an administrator of "{SITENAME}". If this message is spam, contains abusive or other comments you find offensive please contact the webmaster of the board at the following address:
+Aşağıda "{SITENAME}" yöneticisi tarafından size gönderilen bir e-posta bulunmaktadır. Bu mesaj spam, küfürlü veya rahatsız edici bulduğunuz başka yorumlar içeriyorsa lütfen aşağıdaki adresten mesaj panosunun web yöneticisiyle iletişime geçin:
 
 {CONTACT_EMAIL}
 
-Include this full email (particularly the headers). 
+Bu e-postanın tamamı dahil (özellikle başlıklar). 
 
-Message sent to you follows:
+Size gönderilen mesaj aşağıdadır:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 {MESSAGE}
