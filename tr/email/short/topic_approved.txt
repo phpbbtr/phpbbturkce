@@ -1,10 +1,10 @@
-Subject: Topic approved - "{TOPIC_TITLE}"
+Konu: Konu onaylandı - "{TOPIC_TITLE}"
 
-Hello {USERNAME},
+Merhaba {USERNAME},
 
-Your topic "{TOPIC_TITLE}" at "{SITENAME}" was approved by a moderator or administrator.
+"{SITENAME}" üzerinde "{TOPIC_TITLE}" konunuz bir moderatör veya yönetici tarafından onaylandı.
 
-If you want to view the topic, click the following link:
+Konuyu görüntülemek isterseniz aşağıdaki bağlantıya tıklayın:
 {U_VIEW_TOPIC}
 
 {EMAIL_SIG}
