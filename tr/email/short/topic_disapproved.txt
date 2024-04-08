@@ -1,11 +1,10 @@
-Subject: Topic disapproved - "{TOPIC_TITLE}"
+Konu: Konu reddedildi - "{TOPIC_TITLE}"
 
-Hello {USERNAME},
+Merhaba {USERNAME},
 
-Your topic "{TOPIC_TITLE}" at "{SITENAME}" was disapproved by a moderator or administrator.
+"{SITENAME}" üzerinde "{TOPIC_TITLE}" konunuz bir moderatör veya yönetici tarafından reddedildi.
 
-The following reason was given for the disapproval:
-
+Reddedilme gerekçesi şu şekilde gösterildi:
 {REASON}
 
 {EMAIL_SIG}
