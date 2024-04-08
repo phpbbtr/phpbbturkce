@@ -1,19 +1,17 @@
-Subject: Welcome to "{SITENAME}"
+Konu: "{SITENAME}" sitesine hoşgeldiniz
 
 {WELCOME_MSG}
 
-Please keep this email for your records. Your account information is as follows:
+Lütfen bu e-postayı kayıtlarınız için saklayın. Hesap bilgileriniz aşağıdaki gibidir:
 
 ----------------------------
-Username: {USERNAME}
+Kullanıcı adı: {USERNAME}
 
-Board URL: {U_BOARD}
+Site URL: {U_BOARD}
 ----------------------------
 
-Your account is currently inactive and will need to be approved by an administrator before you can log in. Another email will be sent when this has occurred.
+Hesabınız şu anda aktif değil ve giriş yapabilmeniz için bir yönetici tarafından onaylanması gerekiyor. Bu olduğunda başka bir e-posta gönderilecektir.
 
-Your password has been securely stored in our database and cannot be retrieved. In the event that it is forgotten, you will be able to reset it using the email address associated with your account.
-
-Thank you for registering.
+Kayıt olduğunuz için teşekkür ederiz.
 
 {EMAIL_SIG}
