@@ -1,11 +1,10 @@
-Subject: Post disapproved - "{POST_SUBJECT}"
+Konu: Mesaj reddedildi - "{POST_SUBJECT}"
 
-Hello {USERNAME},
+Merhaba {USERNAME},
 
-Your post "{POST_SUBJECT}" at "{SITENAME}" was disapproved by a moderator or administrator.
+"{SITENAME}" üzerinde "{POST_SUBJECT}" mesajınız bir moderatör veya yönetici tarafından reddedildi.
 
-The following reason was given for the disapproval:
-
+Onaylanmama gerekçesi şu şekilde gösterildi:
 {REASON}
 
 {EMAIL_SIG}
