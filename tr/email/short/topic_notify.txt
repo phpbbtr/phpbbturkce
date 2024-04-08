@@ -1,13 +1,13 @@
-Subject: Reply in "{TOPIC_TITLE}"
+Konu: "{TOPIC_TITLE}" konusuna cevap
 
-Hello {USERNAME},
+Merhaba {USERNAME},
 
-The topic "{TOPIC_TITLE}" received a new reply<!-- IF AUTHOR_NAME != '' --> by {AUTHOR_NAME}<!-- ENDIF --> since your last visit to "{SITENAME}". No more emails will be sent until you visit the topic.
+"{SITENAME}" üzerinde "{TOPIC_TITLE}" konusu son ziyaretinizden bu yana<!-- IF AUTHOR_NAME != '' --> {AUTHOR_NAME} tarafından<!-- ENDIF --> yeni bir cevap aldı. Konuyu ziyaret edene kadar başka e-posta gönderilmeyecek.
 
-If you want to view the newest post made since your last visit, click the following link:
+Son ziyaretinizden bu yana gönderilen en yeni mesajları görüntülemek isterseniz aşağıdaki bağlantıya tıklayın:
 {U_NEWEST_POST}
 
-If you no longer wish to watch this topic click the following link:
+Bu konuyu artık takip etmek istemiyorsanız aşağıdaki bağlantıya tıklayın:
 {U_STOP_WATCHING_TOPIC}
 
 {EMAIL_SIG}
