@@ -74,7 +74,7 @@ $lang = array_merge($lang, array(
 
 	'GROUP_LEADER'		=> 'Grup lideri',
 
-	'HIDE_MEMBER_SEARCH'	=> 'Üye aramyı gizle',
+	'HIDE_MEMBER_SEARCH'	=> 'Üye aramayı gizle',
 
 	'IM_ADD_CONTACT'	=> 'İletişim Ekle',
 	'IM_DOWNLOAD_APP'	=> 'Uygulamayı indir',
