@@ -67,7 +67,7 @@ $lang = array_merge($lang, array(
 		2	=> 'Aranacak çok fazla kelime belirttiniz. Lütfen %1$d kelimeden fazlasını girmeyin.',
 	),
 
-	'NO_KEYWORDS'			=> 'You must specify at least one word to search for. Each word must consist of at least %s and must not contain more than %s excluding wildcards.',
+	'NO_KEYWORDS'			=> 'Aranacak en az bir kelime belirtmelisiniz. Her kelime en az %s ve jokerler hariç en fazla %s içermelidir.',
 	'NO_RECENT_SEARCHES'		=> 'Yakın zamanda herhangi bir arama yapılmadı.',
 	'NO_SEARCH'			=> 'Üzgünüz ama arama sistemini kullanmanıza izin verilmiyor.',
 	'NO_SEARCH_RESULTS'		=> 'Uygun eşleşme bulunamadı.',
@@ -80,7 +80,7 @@ $lang = array_merge($lang, array(
 	'WORD_IN_NO_POST'		=> 'Hiçbir mesaj <strong>%s</strong> kelimesi içermediğinden sonuç bulunamadı.',
 	'WORDS_IN_NO_POST'		=> 'Hiçbir mesaj <strong>%s</strong> kelimeleri içermediğinden sonuç bulunamadı.',
 
-	'POST_CHARACTERS'		=> 'characters of posts',
+	'POST_CHARACTERS'		=> 'karakter',
 	'PHRASE_SEARCH_DISABLED'	=> 'Tam kelime öbeğine göre arama bu panoda desteklenmiyor.',
 
 	'RECENT_SEARCHES'		=> 'Son aramalar',
