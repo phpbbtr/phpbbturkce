@@ -55,7 +55,7 @@ $lang = array_merge($lang, array(
 	'BBCODE_F_HELP'				=> 'Font boyutu: [size=85]small text[/size]',
 	'BBCODE_IS_OFF'				=> '%sBBCode%s <em>KAPALI</em>',
 	'BBCODE_IS_ON'				=> '%sBBCode%s <em>AÇIK</em>',
-	'BBCODE_I_HELP'				=> 'İtalik metint: [i]metin[/i]',
+	'BBCODE_I_HELP'				=> 'İtalik metin: [i]metin[/i]',
 	'BBCODE_L_HELP'				=> 'Liste: [list][*]metin[/list]',
 	'BBCODE_LISTITEM_HELP'			=> 'Liste öğesi: [*]metin',
 	'BBCODE_O_HELP'				=> 'Sıralı Liste: örneğin [list=1][*]İlk öğe[/list] veya [list=a][*]Bir öğe[/list]',
