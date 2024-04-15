@@ -585,7 +585,7 @@ $lang = array_merge($lang, array(
 	'OPTIONS'			=> 'Seçenekler',
 
 	'PAGE_NOT_FOUND'		=> 'İstenilen sayfa bulunamadı.',
-	'PAGE_OF'			=> '<strong>%2$d</strong> sayfa içinde <strong>%1$d</strong>',
+	'PAGE_OF'			=> '<strong>%1$d</strong>. sayfa (<strong>%2$d</strong> sayfa içinde)',
 	'PAGE_TITLE_NUMBER'		=> 'Sayfa %s',
 	'PASSWORD'			=> 'Şifre',
 	'PIXEL'				=> 'px',
