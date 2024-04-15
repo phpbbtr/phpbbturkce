@@ -200,7 +200,7 @@ $lang = array_merge($lang, array(
 	'CURRENT_TIME'		=> 'Şu an %s',
 
 	'DAY'				=> 'Gün',
-	'DAYS'				=> 'Günler',
+	'DAYS'				=> 'Gün',
 	'DELETE'			=> 'Sil',
 	'DELETE_ALL'			=> 'Tümünü sil',
 	'DELETE_COOKIES'		=> 'Çerezleri sil',
