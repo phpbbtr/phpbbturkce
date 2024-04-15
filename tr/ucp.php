@@ -373,7 +373,7 @@ $lang = array_merge($lang, array(
 	'NO_ACTION_MODE'		=> 'No message action specified.',
 	'NO_AUTHOR'			=> 'No author defined for this message',
 	'NO_AVATAR'			=> 'No avatar selected',
-	'NO_AVATAR_CATEGORY'		=> 'None',
+	'NO_AVATAR_CATEGORY'		=> 'Yok',
 
 	'NO_AUTH_DELETE_MESSAGE'	=> 'You are not authorised to delete private messages.',
 	'NO_AUTH_EDIT_MESSAGE'		=> 'You are not authorised to edit private messages.',
@@ -387,7 +387,7 @@ $lang = array_merge($lang, array(
 	'NO_AUTH_SEND_MESSAGE'		=> 'You are not authorised to send private messages.',
 	'NO_AUTH_SIGNATURE'		=> 'You are not authorised to define a signature.',
 
-	'NO_BCC_RECIPIENT'		=> 'None',
+	'NO_BCC_RECIPIENT'		=> 'Yok',
 	'NO_BOOKMARKS'			=> 'You have no bookmarks.',
 	'NO_BOOKMARKS_SELECTED'		=> 'You have selected no bookmarks.',
 	'NO_EDIT_READ_MESSAGE'		=> 'Private message cannot be edited because it has already been read.',
