@@ -35,19 +35,19 @@ if (empty($lang) || !is_array($lang))
 // in a url you again do not need to specify an order e.g., 'Click %sHERE%s' is fine
 
 $lang = array_merge($lang, array(
-	'CLI_APCU_CACHE_NOTICE'				=> 'APCu cache has to be purged through the Administration Control Panel.',
+	'CLI_APCU_CACHE_NOTICE'				=> 'APCu önbelleğinin Yönetim Kontrol Paneli aracılığıyla temizlenmesi gerekir.',
 
-	'CLI_CONFIG_CANNOT_CACHED'			=> 'Set this option if the configuration option changes too frequently to be efficiently cached.',
-	'CLI_CONFIG_CURRENT'				=> 'Current configuration value, use 0 and 1 to specify boolean values',
-	'CLI_CONFIG_DELETE_SUCCESS'			=> 'Successfully deleted config %s.',
-	'CLI_CONFIG_NEW'					=> 'New configuration value, use 0 and 1 to specify boolean values',
-	'CLI_CONFIG_NOT_EXISTS'				=> 'Config %s does not exist',
-	'CLI_CONFIG_OPTION_NAME'			=> 'The configuration option’s name',
-	'CLI_CONFIG_PRINT_WITHOUT_NEWLINE'	=> 'Set this option if the value should be printed without a new line at the end.',
-	'CLI_CONFIG_INCREMENT_BY'			=> 'Amount to increment by',
-	'CLI_CONFIG_INCREMENT_SUCCESS'		=> 'Successfully incremented config %s',
-	'CLI_CONFIG_SET_FAILURE'			=> 'Could not set config %s',
-	'CLI_CONFIG_SET_SUCCESS'			=> 'Successfully set config %s',
+	'CLI_CONFIG_CANNOT_CACHED'			=> 'Yapılandırma seçeneği verimli bir şekilde önbelleğe alınamayacak kadar sık değişiyorsa bu seçeneği ayarlayın.',
+	'CLI_CONFIG_CURRENT'				=> 'Geçerli yapılandırma değeri, boolean değerlerini belirtmek için 0 ve 1 kullanın',
+	'CLI_CONFIG_DELETE_SUCCESS'			=> '%s yapılandırması başarıyla silindi.',
+	'CLI_CONFIG_NEW'					=> 'Yeni yapılandırma değeri, boolean değerlerini belirtmek için 0 ve 1 kullanın',
+	'CLI_CONFIG_NOT_EXISTS'				=> '%s yapılandırması mevcut değil',
+	'CLI_CONFIG_OPTION_NAME'			=> 'Yapılandırma seçeneğinin adı',
+	'CLI_CONFIG_PRINT_WITHOUT_NEWLINE'	=> 'Değerin sonunda yeni bir satır olmadan yazdırılması gerekiyorsa bu seçeneği ayarlayın.',
+	'CLI_CONFIG_INCREMENT_BY'			=> 'Arttırılacak miktar',
+	'CLI_CONFIG_INCREMENT_SUCCESS'		=> '%s yapılandırması başarıyla arttırıldı',
+	'CLI_CONFIG_SET_FAILURE'			=> '%s yapılandırması ayarlanamadı',
+	'CLI_CONFIG_SET_SUCCESS'			=> '%s yapılandırması başarıyla ayarlandı',
 
 	'CLI_DESCRIPTION_CRON_LIST'					=> 'Prints a list of ready and unready cron jobs.',
 	'CLI_DESCRIPTION_CRON_RUN'					=> 'Runs all ready cron tasks.',
