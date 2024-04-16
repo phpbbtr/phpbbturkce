@@ -38,8 +38,8 @@ if (empty($lang) || !is_array($lang))
 
 $lang = array_merge($lang, array(
 	'APPROVE'								=> 'Onayla',
-	'ATTACHMENT'						=> 'Dosya eki',
-	'ATTACHMENT_FUNCTIONALITY_DISABLED'	=> 'Dosya eki özelliği devre dışı bırakıldı.',
+	'ATTACHMENT'						=> 'Ek',
+	'ATTACHMENT_FUNCTIONALITY_DISABLED'	=> 'Ek dosya özelliği devre dışı bırakıldı.',
 
 	'BOOKMARK_ADDED'		=> 'Konu başarıyla yer imlerine eklendi.',
 	'BOOKMARK_ERR'			=> 'Konunun yer imlerine eklenmesi başarısız oldu. Lütfen tekrar deneyin.',
