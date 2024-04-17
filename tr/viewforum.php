@@ -52,7 +52,7 @@ $lang = array_merge($lang, array(
 	'NEW_POSTS_HOT'			=> 'Yeni mesajlar [ Popüler ]',	// Not used anymore
 	'NEW_POSTS_LOCKED'		=> 'Yeni mesajlar [ Kilitli ]', // Not used anymore
 	'NO_NEW_POSTS_HOT'		=> 'Yeni mesaj yok [ Popüler ]', // Not used anymore
-	'NO_NEW_POSTS_LOCKED'		=> 'Yeni mesaj yok [ Kilitli ]', // Not used anymore
+	'NO_NEW_POSTS_LOCKED'	=> 'Yeni mesaj yok [ Kilitli ]', // Not used anymore
 	'NO_READ_ACCESS'		=> 'Bu forumdaki konuları görüntülemek veya okumak için gerekli izinlere sahip değilsiniz.',
 	'NO_FORUMS_IN_CATEGORY'		=> 'Bu kategoride forum bulunmamaktadır.',
 	'NO_UNREAD_POSTS_HOT'		=> 'Okunmamış mesaj yok [ Popüler ]',
@@ -63,7 +63,7 @@ $lang = array_merge($lang, array(
 	'TOPICS_MARKED'			=> 'Bu forumun konuları artık okundu olarak işaretlendi.',
 
 	'UNREAD_POSTS_HOT'		=> 'Okunmamış mesajlar [ Popüler ]',
-	'UNREAD_POSTS_LOCKED'		=> 'Okunmamış mesajlar [ Kilitli ]',
+	'UNREAD_POSTS_LOCKED'	=> 'Okunmamış mesajlar [ Kilitli ]',
 
 	'VIEW_FORUM'			=> 'Forumu görüntüle',
 	'VIEW_FORUM_TOPICS'		=> array(
