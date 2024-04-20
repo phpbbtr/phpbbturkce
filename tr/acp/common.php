@@ -249,7 +249,7 @@ $lang = array_merge($lang, array(
 	'DOWNLOAD_STORE_EXPLAIN'	=> 'You may directly download the file or save it in your <samp>store/</samp> folder.',
 	'DOWNLOADS'			=> 'Downloads',
 
-	'EDIT'				=> 'Edit',
+	'EDIT'				=> 'Düzenle',
 	'ENABLE'			=> 'Enable',
 	'EXPORT_DOWNLOAD'		=> 'Download',
 	'EXPORT_STORE'			=> 'Store',
