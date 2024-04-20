@@ -49,11 +49,11 @@ $lang = array_merge($lang, array(
 	<br><br>
 	Bilgileriniz iki şekilde toplanmaktadır. İlki, "%1$s" mesaj panosunu dolaşırken bilgisayarınızın web tarayıcısının geçici dosyalarına indirilen küçük metin dosyaları olarak phpBB yazılımı belirli sayıda çerezler oluşturacaktır. İlk iki çerez phpBB yazılımı tarafından size otomatik olarak atanan yalnızca bir kullanıcı tanımlayıcısı (bundan böyle "kullanıcı kimliği" olarak anılacaktır) ve bir anonim oturum tanımlayıcısı (bundan böyle "oturum kimliği" olarak anılacaktır) içerir. “%1$s” içindeki konulara göz attığınızda üçüncü bir çerez oluşturulacak ve hangi konuların okunduğunu depolamak için kullanılacak, böylece kullanıcı deneyiminiz iyileştirilecektir.
 	<br><br>
-	We may also create cookies external to the phpBB software whilst browsing “%1$s”, though these are outside the scope of this document which is intended to only cover the pages created by the phpBB software. The second way in which we collect your information is by what you submit to us. This can be, and is not limited to: posting as an anonymous user (hereinafter “anonymous posts”), registering on “%1$s” (hereinafter “your account”) and posts submitted by you after registration and whilst logged in (hereinafter “your posts”).
+	Ayrıca “%1$s” mesaj panosunu dolaşırken phpBB yazılımının dışında çerezler oluşturabiliriz ancak bunlar yalnızca phpBB yazılımı tarafından oluşturulan sayfaları kapsaması amaçlanan bu belgenin kapsamı dışındadır. Bilgilerinizi toplamamızın ikinci yolu, bize sunduğunuz bilgilerdir. Bu bunlarla sınırlı olabilir veya olmayabilir: anonim kullanıcı olarak paylaşım yapmak (bundan böyle "anonim gönderiler" olarak anılacaktır), “%1$s” mesaj panosuna kaydınız (bundan sonra “hesabınız” olarak anılacaktır) ve kayıt olduktan sonra ve giriş yaparken tarafınızca gönderilen gönderiler (bundan sonra "gönderileriniz" olarak anılacaktır).
 	<br><br>
-	Your account will at a bare minimum contain a uniquely identifiable name (hereinafter “your user name”), a personal password used for logging into your account (hereinafter “your password”) and a personal, valid email address (hereinafter “your email”). Your information for your account at “%1$s” is protected by data-protection laws applicable in the country that hosts us. Any information beyond your user name, your password, and your email address required by “%1$s” during the registration process is either mandatory or optional, at the discretion of “%1$s”. In all cases, you have the option of what information in your account is publicly displayed. Furthermore, within your account, you have the option to opt-in or opt-out of automatically generated emails from the phpBB software.
+	Hesabınız en azından benzersiz şekilde tanımlanabilen bir ad (bundan sonra "kullanıcı adınız" olarak anılacaktır), hesabınıza giriş yapmak için kullanılan kişisel bir şifre (bundan sonra “şifreniz” olarak anılacaktır) ve kişisel geçerli eposta adresi (bundan sonra "e-postanız" olarak anılacaktır) içerecektir. “%1$s” sitesinde hesabınıza ait bilgileriniz hostumuzun barındığı ülkedeki kanunlar kapsamında veri-koruma yöntemiyle korunmaktadır. Kayıt işlemi sırasında "%1$s" tarafından istenen kullanıcı adınız, şifreniz ve e-posta adresinizin dışında her türlü bilginin zorunlu ya da isteğe bağlı olup olmaması "%1$s" şirketinin takdirine bağlıdır. Her durumda, hesabınızdaki hangi bilgilerin herkese açık olarak görüntüleneceğini seçme seçeneğiniz vardır. Ayrıca, hesabınızda, phpBB yazılımı tarafından otomatik olarak oluşturulan e-postaları kabul etme veya devre dışı bırakma seçeneğine sahipsiniz.
 	<br><br>
-	Your password is ciphered (a one-way hash) so that it is secure. However, it is recommended that you do not reuse the same password across a number of different websites. Your password is the means of accessing your account at “%1$s”, so please guard it carefully and under no circumstance will anyone affiliated with “%1$s”, phpBB or another 3rd party, legitimately ask you for your password. Should you forget your password for your account, you can use the “I forgot my password” feature provided by the phpBB software. This process will ask you to submit your user name and your email, then the phpBB software will generate a new password to reclaim your account.
+	Şifreniz güvenli olması için şifrelenmiştir (tek yönlü bir hash). Ancak aynı şifreyi farklı birçok web sitesinde tekrar kullanmamanız önerilir. Şifreniz "%1$s" mesaj panosundaki hesabınıza erişim için gerekmektedir, ayrıca lütfen şifrenizi dikkatli koruyun ve hiçbir surette "%1$s" ile bağlantılı bir kimseye, phpBB veya bir diğer 3. parti kişi veya sitelere, şifreniz için soru sormayın. Hesabınızın şifresini unutmanız durumunda, phpBB yazılımının sunduğu “Şifremi unuttum” özelliğini kullanabilirsiniz. Bu işlem sizden kullanıcı adınızı ve e-posta adresinizi girmenizi isteyecek, ardından phpBB yazılımı hesabınızı geri almak için yeni bir şifre oluşturacaktır.
 	',
 ));
 
@@ -324,30 +324,30 @@ $lang = array_merge($lang, array(
 	'NEW_PASSWORD_ERROR'			=> 'Girdiğiniz şifreler eşleşmiyor.',
 
 	'NOTIFICATIONS_MARK_ALL_READ'						=> 'Tüm bildirimleri okundu olarak işaretle',
-	'NOTIFICATIONS_MARK_ALL_READ_CONFIRM'				=> 'Are you sure you want to mark all notifications read?',
-	'NOTIFICATIONS_MARK_ALL_READ_SUCCESS'				=> 'All notifications have been marked read.',
-	'NOTIFICATION_GROUP_MISCELLANEOUS'					=> 'Miscellaneous Notifications',
-	'NOTIFICATION_GROUP_MODERATION'						=> 'Moderation Notifications',
-	'NOTIFICATION_GROUP_ADMINISTRATION'					=> 'Administration Notifications',
-	'NOTIFICATION_GROUP_POSTING'						=> 'Posting Notifications',
+	'NOTIFICATIONS_MARK_ALL_READ_CONFIRM'				=> 'Tüm bildirimleri okundu olarak işaretlemek istediğinize emin misiniz?',
+	'NOTIFICATIONS_MARK_ALL_READ_SUCCESS'				=> 'Tüm bildirimler okundu olarak işaretlendi.',
+	'NOTIFICATION_GROUP_MISCELLANEOUS'					=> 'Çeşitli Bildirimler',
+	'NOTIFICATION_GROUP_MODERATION'						=> 'Moderasyon Bildirimleri',
+	'NOTIFICATION_GROUP_ADMINISTRATION'					=> 'Yönetim Bildirimleri',
+	'NOTIFICATION_GROUP_POSTING'						=> 'Gönderi Bildirimleri',
 	'NOTIFICATION_METHOD_BOARD'							=> 'Bildirimler',
 	'NOTIFICATION_METHOD_EMAIL'							=> 'Eposta',
 	'NOTIFICATION_METHOD_JABBER'						=> 'Jabber',
 	'NOTIFICATION_TYPE'									=> 'Bildirim türü',
-	'NOTIFICATION_TYPE_BOOKMARK'						=> 'Someone replies to a topic you have bookmarked',
-	'NOTIFICATION_TYPE_GROUP_REQUEST'					=> 'Someone requests to join a group you lead',
-	'NOTIFICATION_TYPE_FORUM'							=> 'Someone replies to a topic in a forum to which you are subscribed',
-	'NOTIFICATION_TYPE_IN_MODERATION_QUEUE'				=> 'A post or topic needs approval',
-	'NOTIFICATION_TYPE_MODERATION_QUEUE'				=> 'Your topics/posts are approved or disapproved by a moderator',
-	'NOTIFICATION_TYPE_PM'								=> 'Someone sends you a private message',
-	'NOTIFICATION_TYPE_POST'							=> 'Someone replies to a topic to which you are subscribed',
-	'NOTIFICATION_TYPE_QUOTE'							=> 'Someone quotes you in a post',
-	'NOTIFICATION_TYPE_REPORT'							=> 'Someone reports a post',
-	'NOTIFICATION_TYPE_REPORT_CLOSED'					=> 'Your report on a post is closed by a moderator',
-	'NOTIFICATION_TYPE_REPORT_PM'						=> 'Someone reports a private message',
-	'NOTIFICATION_TYPE_REPORT_PM_CLOSED'				=> 'Your report on a private message is closed by a moderator',
-	'NOTIFICATION_TYPE_TOPIC'							=> 'Someone creates a topic in a forum to which you are subscribed',
-	'NOTIFICATION_TYPE_ADMIN_ACTIVATE_USER'				=> 'User requiring activation',
+	'NOTIFICATION_TYPE_BOOKMARK'						=> 'Birinin yer imlerinizdeki bir konuya yanıt vermesi',
+	'NOTIFICATION_TYPE_GROUP_REQUEST'					=> 'Birinin liderliğini yaptığınız bir gruba katılmak istemesi',
+	'NOTIFICATION_TYPE_FORUM'							=> 'Birinin abone olduğunuz bir forumda bir konuya yanıt vermesi',
+	'NOTIFICATION_TYPE_IN_MODERATION_QUEUE'				=> 'Bir mesajın veya konunun onaylanmasının gerekmesi',
+	'NOTIFICATION_TYPE_MODERATION_QUEUE'				=> 'Bir maderatör tarafından konularınızın/mesajlarınızın onaylaması ve reddedilmesi',
+	'NOTIFICATION_TYPE_PM'								=> 'Birinin size özel mesaj göndermesi',
+	'NOTIFICATION_TYPE_POST'							=> 'Birinin abone olduğunuz bir konuya cevap yazması',
+	'NOTIFICATION_TYPE_QUOTE'							=> 'Birinin bir measjında sizden alıntı yapması',
+	'NOTIFICATION_TYPE_REPORT'							=> 'Birinin bir mesajı raporlaması',
+	'NOTIFICATION_TYPE_REPORT_CLOSED'					=> 'Bir maderatör tarafından bir mesaj üzerindeki raporunuzun kapatılması',
+	'NOTIFICATION_TYPE_REPORT_PM'						=> 'Birinin özel bir mesajı raporlaması',
+	'NOTIFICATION_TYPE_REPORT_PM_CLOSED'				=> 'Bir maderatör tarafından bir özel mesaj üzerindeki raporunuzun kapatılması',
+	'NOTIFICATION_TYPE_TOPIC'							=> 'Birinin abonesi olduğunuz bir forumda bir konu oluşturması',
+	'NOTIFICATION_TYPE_ADMIN_ACTIVATE_USER'				=> 'Aktivasyon gereken kullanıcı',
 
 	'NOTIFY_METHOD'					=> 'Bildirim yöntemi',
 	'NOTIFY_METHOD_BOTH'			=> 'Both',
