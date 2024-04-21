@@ -44,20 +44,20 @@ $lang = array_merge($lang, array(
 	'ACP_ATTACHMENTS'		=> 'Ekler',
 	'ACP_ATTACHMENT_SETTINGS'	=> 'Ek ayarları',
 	'ACP_AUTH_SETTINGS'		=> 'Authentication',
-	'ACP_AUTOMATION'		=> 'Automation',
+	'ACP_AUTOMATION'		=> 'Otomasyon',
 	'ACP_AVATAR_SETTINGS'		=> 'Avatar ayarları',
 
-	'ACP_BACKUP'			=> 'Backup',
-	'ACP_BAN'			=> 'Banning',
-	'ACP_BAN_EMAILS'		=> 'Ban emails',
-	'ACP_BAN_IPS'			=> 'Ban IPs',
-	'ACP_BAN_USERNAMES'		=> 'Ban users',
-	'ACP_BBCODES'			=> 'BBCodes',
+	'ACP_BACKUP'			=> 'Yedekleme',
+	'ACP_BAN'			=> 'Banlama',
+	'ACP_BAN_EMAILS'		=> 'Eposta banlama',
+	'ACP_BAN_IPS'			=> 'IP banlama',
+	'ACP_BAN_USERNAMES'		=> 'Kullanıcı banlama',
+	'ACP_BBCODES'			=> 'BBCode',
 	'ACP_BOARD_CONFIGURATION'	=> 'Pano yapılandırması',
 	'ACP_BOARD_FEATURES'		=> 'Pano özellikleri',
 	'ACP_BOARD_MANAGEMENT'		=> 'Pano yönetimi',
-	'ACP_BOARD_SETTINGS'		=> 'Board settings',
-	'ACP_BOTS'			=> 'Spiders/Robots',
+	'ACP_BOARD_SETTINGS'		=> 'Pano ayarları',
+	'ACP_BOTS'			=> 'Örümcekler/Robotlar',
 
 	'ACP_CAPTCHA'			=> 'CAPTCHA',
 
@@ -68,10 +68,10 @@ $lang = array_merge($lang, array(
 	'ACP_CAT_GENERAL'		=> 'Genel',
 	'ACP_CAT_MAINTENANCE'		=> 'Bakım',
 	'ACP_CAT_PERMISSIONS'		=> 'İzinler',
-	'ACP_CAT_POSTING'		=> 'Posting',
-	'ACP_CAT_STYLES'		=> 'Styles',
+	'ACP_CAT_POSTING'		=> 'Gönderim',
+	'ACP_CAT_STYLES'		=> 'Stiller',
 	'ACP_CAT_SYSTEM'		=> 'Sistem',
-	'ACP_CAT_USERGROUP'		=> 'Users and Groups',
+	'ACP_CAT_USERGROUP'		=> 'Kullanıcılar ve Gruplar',
 	'ACP_CAT_USERS'			=> 'Kullanıcılar',
 	'ACP_CLIENT_COMMUNICATION'	=> 'Client communication',
 	'ACP_COOKIE_SETTINGS'		=> 'Çerez ayarları',
@@ -80,7 +80,7 @@ $lang = array_merge($lang, array(
 	'ACP_CRITICAL_LOGS'		=> 'Hata kayıtları',
 	'ACP_CUSTOM_PROFILE_FIELDS'	=> 'Özel profil alanları',
 
-	'ACP_DATABASE'			=> 'Database management',
+	'ACP_DATABASE'			=> 'Veri Tabanı Yönetimi',
 	'ACP_DISALLOW'			=> 'Disallow',
 	'ACP_DISALLOW_USERNAMES'	=> 'Disallow usernames',
 
@@ -164,9 +164,9 @@ $lang = array_merge($lang, array(
 	'ACP_FEED'			=> 'Feed management',
 	'ACP_FEED_SETTINGS'		=> 'Feed settings',
 
-	'ACP_SEARCH'			=> 'Search configuration',
-	'ACP_SEARCH_INDEX'		=> 'Search index',
-	'ACP_SEARCH_SETTINGS'		=> 'Search settings',
+	'ACP_SEARCH'			=> 'Arama yapılandırması',
+	'ACP_SEARCH_INDEX'		=> 'Arama indeksi',
+	'ACP_SEARCH_SETTINGS'		=> 'Arama ayarları',
 
 	'ACP_SECURITY_SETTINGS'		=> 'Güvenlik ayarları',
 	'ACP_SERVER_CONFIGURATION'	=> 'Sunucu yapılandırması',
@@ -219,12 +219,12 @@ $lang = array_merge($lang, array(
 	'ADD'					=> 'Add',
 	'ADMIN'					=> 'Administration',
 	'ADMIN_INDEX'			=> 'Admin index',
-	'ADMIN_PANEL'			=> 'Administration Control Panel',
+	'ADMIN_PANEL'			=> 'Yönetici Kontrol Paneli',
 
-	'ADM_LOGOUT'			=> 'ACP&nbsp;Logout',
+	'ADM_LOGOUT'			=> 'YKPP&nbsp;Çıkış',
 	'ADM_LOGGED_OUT'		=> 'Successfully logged out from Administration Control Panel',
 
-	'BACK'				=> 'Back',
+	'BACK'				=> 'Geri',
 
 	'CONTAINER_EXCEPTION'		=> 'phpBB encountered an error building the container due to an installed extension. For this reason, all extensions have been temporarily disabled. Please try purging your forum cache. All extensions will automatically be re-enabled once the container error is resolved. If this error continues, please visit <a href="https://www.phpbb.com/support">phpBB.com</a> for support.',
 	'EXCEPTION'			=> 'Exception',
@@ -254,15 +254,15 @@ $lang = array_merge($lang, array(
 	'EXPORT_DOWNLOAD'		=> 'Download',
 	'EXPORT_STORE'			=> 'Store',
 
-	'GENERAL_OPTIONS'		=> 'General options',
-	'GENERAL_SETTINGS'		=> 'General settings',
-	'GLOBAL_MASK'			=> 'Global permission mask',
+	'GENERAL_OPTIONS'		=> 'Genel seçenekler',
+	'GENERAL_SETTINGS'		=> 'Genel ayarlar',
+	'GLOBAL_MASK'			=> 'Genel izin maskeleri',
 
-	'INSTALL'			=> 'Install',
+	'INSTALL'			=> 'Yükle',
 	'IP'				=> 'User IP',
 	'IP_HOSTNAME'			=> 'IP addresses or hostnames',
 
-	'LATEST_VERSION'		=> 'Latest version',
+	'LATEST_VERSION'		=> 'Son sürüm',
 	'LOAD_NOTIFICATIONS'		=> 'Display Notifications',
 	'LOAD_NOTIFICATIONS_EXPLAIN'	=> 'Display the notifications list on every page (typically in the header).',
 	'LOGGED_IN_AS'			=> 'You are logged in as:',
@@ -272,21 +272,21 @@ $lang = array_merge($lang, array(
 	'LOOK_UP_FORUM'			=> 'Select a forum',
 	'LOOK_UP_FORUMS_EXPLAIN'	=> 'You are able to select more than one forum.',
 
-	'MANAGE'			=> 'Manage',
+	'MANAGE'			=> 'Yönet',
 	'MENU_TOGGLE'			=> 'Hide or display the side menu',
 	'MORE'				=> 'More',			// Not used at the moment
 	'MORE_INFORMATION'		=> 'More information »',
-	'MOVE_DOWN'			=> 'Move down',
-	'MOVE_UP'			=> 'Move up',
+	'MOVE_DOWN'			=> 'Aşağı taşı',
+	'MOVE_UP'			=> 'Yukarı taşı',
 
-	'NOTIFY'			=> 'Notification',
+	'NOTIFY'			=> 'Bildirim',
 	'NO_ADMIN'			=> 'You are not authorised to administer this board.',
 	'NO_EMAILS_DEFINED'		=> 'No valid email addresses found.',
 	'NO_FILES_TO_DELETE'		=> 'Attachments you selected for deletion do not exist.',
 	'NO_PASSWORD_SUPPLIED'		=> 'You need to enter your password to access the Administration Control Panel.',
 
-	'OFF'				=> 'Off',
-	'ON'				=> 'On',
+	'OFF'				=> 'Kapalı',
+	'ON'				=> 'Açık',
 
 	'PARSE_BBCODE'				=> 'Parse BBCode',
 	'PARSE_SMILIES'				=> 'Parse smilies',
@@ -295,7 +295,7 @@ $lang = array_merge($lang, array(
 	'PERMISSIONS_TRANSFERRED_EXPLAIN'	=> 'You currently have the permissions from %1$s. You are able to browse the board with this user’s permissions, but not access the administration control panel since admin permissions were not transferred. You can <a href="%2$s"><strong>revert to your permission set</strong></a> at any time.',
 	'PROCEED_TO_ACP'			=> '%sProceed to the ACP%s',
 
-	'RELEASE_ANNOUNCEMENT'			=> 'Announcement',
+	'RELEASE_ANNOUNCEMENT'			=> 'Duyuru',
 	'REMIND'				=> 'Remind',
 	'REPARSE_LOCK_ERROR'			=> 'Reparsing is already in progress by another process.',
 	'RESYNC'				=> 'Resynchronise',
@@ -309,23 +309,23 @@ $lang = array_merge($lang, array(
 	'SETTING_TOO_LONG'	=> 'The provided value for the setting “%1$s” is too long. The maximum acceptable length is %2$d.',
 	'SETTING_TOO_SHORT'	=> 'The provided value for the setting “%1$s” is too short. The minimum acceptable length is %2$d.',
 
-	'SHOW_ALL_OPERATIONS'	=> 'Show all operations',
+	'SHOW_ALL_OPERATIONS'	=> 'Tüm seçenekleri göster',
 
 	'TASKS_NOT_READY'	=> 'Not ready tasks:',
 	'TASKS_READY'		=> 'Ready tasks:',
-	'TOTAL_SIZE'		=> 'Total size',
+	'TOTAL_SIZE'		=> 'Toplam boyut',
 
-	'UCP'			=> 'User Control Panel',
+	'UCP'			=> 'Kullanıcı Kontrol Paneli',
 	'URL_INVALID'		=> 'The provided URL for the setting “%1$s” is invalid.',
 	'URL_SCHEME_INVALID'	=> 'The provided scheme “%2$s” in comma-separated setting “%1$s” is invalid. Scheme should start with a latin character followed by alphanumeric characters, hyphens or dots.',
 	'USERNAMES_EXPLAIN'	=> 'Place each username on a separate line.',
-	'USER_CONTROL_PANEL'	=> 'User Control Panel',
+	'USER_CONTROL_PANEL'	=> 'Kullanıcı Kontrol Paneli',
 
 	'UPDATE_NEEDED'		=> 'The board is not up to date.',
 	'UPDATE_NOT_NEEDED'	=> 'The board is up to date.',
 	'UPDATES_AVAILABLE'	=> 'Updates available:',
 
-	'WARNING'		=> 'Warning',
+	'WARNING'		=> 'Uyarı',
 ));
 
 // PHP info
@@ -395,17 +395,17 @@ $lang = array_merge($lang, array(
 
 	'POSTS_PER_DAY'		=> 'Posts per day',
 
-	'PURGE_CACHE'		=> 'Purge the cache',
+	'PURGE_CACHE'		=> 'Ön belleği temizle',
 	'PURGE_CACHE_CONFIRM'	=> 'Are you sure you wish to purge the cache?',
 	'PURGE_CACHE_EXPLAIN'	=> 'Purge all cache related items, this includes any cached template files or queries.',
-	'PURGE_CACHE_SUCCESS'	=> 'Cache successfully purged.',
+	'PURGE_CACHE_SUCCESS'	=> 'Ön bellek başarıyla temizlendi.',
 
-	'PURGE_SESSIONS'		=> 'Purge all sessions',
+	'PURGE_SESSIONS'		=> 'Tüm oturumları temizle',
 	'PURGE_SESSIONS_CONFIRM'	=> 'Are you sure you wish to purge all sessions? This will log out all users.',
 	'PURGE_SESSIONS_EXPLAIN'	=> 'Purge all sessions. This will log out all users by truncating the session table.',
-	'PURGE_SESSIONS_SUCCESS'	=> 'Sessions successfully purged.',
+	'PURGE_SESSIONS_SUCCESS'	=> 'Oturumlar başarıyla temizlendi.',
 
-	'RESET_DATE'			=> 'Reset board’s start date',
+	'RESET_DATE'			=> 'Pano başlangıç tarihini sıfırla',
 	'RESET_DATE_CONFIRM'		=> 'Are you sure you wish to reset the board’s start date?',
 	'RESET_DATE_SUCCESS'		=> 'Board’s start date reset',
 	'RESET_ONLINE'			=> 'Reset most users ever online',
@@ -425,15 +425,15 @@ $lang = array_merge($lang, array(
 	'RESYNC_STATS_SUCCESS'		=> 'Resynchronised statistics',
 	'RUN'				=> 'Run now',
 
-	'STATISTIC'			=> 'Statistic',
+	'STATISTIC'			=> 'İstatistik',
 	'STATISTIC_RESYNC_OPTIONS'	=> 'Resynchronise or reset statistics',
 
 	'TIMEZONE_INVALID'	=> 'The timezone you selected is invalid.',
 	'TIMEZONE_SELECTED'	=> '(currently selected)',
-	'TOPICS_PER_DAY'	=> 'Topics per day',
+	'TOPICS_PER_DAY'	=> 'Gün başı konular',
 
 	'UPLOAD_DIR_SIZE'	=> 'Size of posted attachments',
-	'USERS_PER_DAY'		=> 'Users per day',
+	'USERS_PER_DAY'		=> 'Gün başı kullanıcılar',
 
 	'VALUE'				=> 'Value',
 	'VERSIONCHECK_FAIL'		=> 'Failed to obtain latest version information.',
