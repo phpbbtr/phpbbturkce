@@ -221,8 +221,8 @@ $lang = array_merge($lang, array(
 	'ADMIN_INDEX'			=> 'Admin index',
 	'ADMIN_PANEL'			=> 'Yönetici Kontrol Paneli',
 
-	'ADM_LOGOUT'			=> 'YKPP&nbsp;Çıkış',
-	'ADM_LOGGED_OUT'		=> 'Successfully logged out from Administration Control Panel',
+	'ADM_LOGOUT'			=> 'YKP&nbsp;Çıkış',
+	'ADM_LOGGED_OUT'		=> 'Yönetici Kontrol Panelinden başarıyla çıkış yapıldı.',
 
 	'BACK'				=> 'Geri',
 
@@ -269,7 +269,7 @@ $lang = array_merge($lang, array(
 	'LOGIN_ADMIN'			=> 'To administer the board you must be an authenticated user.',
 	'LOGIN_ADMIN_CONFIRM'		=> 'To administer the board you must re-authenticate yourself.',
 	'LOGIN_ADMIN_SUCCESS'		=> 'You have successfully authenticated and will now be redirected to the Administration Control Panel.',
-	'LOOK_UP_FORUM'			=> 'Select a forum',
+	'LOOK_UP_FORUM'			=> 'Bir forum seç',
 	'LOOK_UP_FORUMS_EXPLAIN'	=> 'You are able to select more than one forum.',
 
 	'MANAGE'			=> 'Yönet',
