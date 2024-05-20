@@ -43,7 +43,7 @@ $lang = array_merge($lang, array(
 	'ACP_ADMIN_ROLES'		=> 'Yönetici rolleri',
 	'ACP_ATTACHMENTS'		=> 'Ekler',
 	'ACP_ATTACHMENT_SETTINGS'	=> 'Ek ayarları',
-	'ACP_AUTH_SETTINGS'		=> 'Authentication',
+	'ACP_AUTH_SETTINGS'		=> 'Kimlik doğrulama',
 	'ACP_AUTOMATION'		=> 'Otomasyon',
 	'ACP_AVATAR_SETTINGS'		=> 'Avatar ayarları',
 
@@ -73,7 +73,7 @@ $lang = array_merge($lang, array(
 	'ACP_CAT_SYSTEM'		=> 'Sistem',
 	'ACP_CAT_USERGROUP'		=> 'Kullanıcılar ve Gruplar',
 	'ACP_CAT_USERS'			=> 'Kullanıcılar',
-	'ACP_CLIENT_COMMUNICATION'	=> 'Client communication',
+	'ACP_CLIENT_COMMUNICATION'	=> 'İstemci iletişimi',
 	'ACP_COOKIE_SETTINGS'		=> 'Çerez ayarları',
 	'ACP_CONTACT'			=> 'İletişim sayfası',
 	'ACP_CONTACT_SETTINGS'		=> 'İletişim sayfası ayarları',
@@ -122,12 +122,12 @@ $lang = array_merge($lang, array(
 	'ACP_LOAD_SETTINGS'		=> 'Yükleme ayarları',
 	'ACP_LOGGING'			=> 'Kayıt tutma',
 
-	'ACP_MAIN'				=> 'ACP index',
+	'ACP_MAIN'				=> 'YKP sayfası',
 
 	'ACP_MANAGE_ATTACHMENTS'		=> 'Ekleri yönet',
 	'ACP_MANAGE_ATTACHMENTS_EXPLAIN'	=> 'Here you can list and delete files attached to posts and private messages.',
 
-	'ACP_MANAGE_EXTENSIONS'		=> 'Manage attachment extensions',
+	'ACP_MANAGE_EXTENSIONS'		=> 'Ek uzantılarını yönet',
 	'ACP_MANAGE_FORUMS'		=> 'Forumları yönet',
 	'ACP_MANAGE_RANKS'		=> 'Rütbeleri yönet',
 	'ACP_MANAGE_REASONS'		=> 'Rapor/red sebepleri yönetimi',
@@ -147,8 +147,8 @@ $lang = array_merge($lang, array(
 	'ACP_PERMISSION_MASKS'		=> 'İzin maskeleri',
 	'ACP_PERMISSION_ROLES'		=> 'İzin rolleri',
 	'ACP_PERMISSION_TRACE'		=> 'Permission trace',
-	'ACP_PHP_INFO'			=> 'PHP information',
-	'ACP_POST_SETTINGS'		=> 'Post settings',
+	'ACP_PHP_INFO'			=> 'PHP bilgisi',
+	'ACP_POST_SETTINGS'		=> 'Gönderi ayarları',
 	'ACP_PRUNE_FORUMS'		=> 'Forumları buda',
 	'ACP_PRUNE_USERS'		=> 'Kullanıcıları buda',
 	'ACP_PRUNING'			=> 'Budama',
@@ -159,10 +159,10 @@ $lang = array_merge($lang, array(
 	'ACP_REASONS'			=> 'Rapor/red sebepleri',
 	'ACP_REGISTER_SETTINGS'		=> 'Kullanıcı kayıt ayarları',
 
-	'ACP_RESTORE'			=> 'Restore',
+	'ACP_RESTORE'			=> 'Geri yükle',
 
-	'ACP_FEED'			=> 'Feed management',
-	'ACP_FEED_SETTINGS'		=> 'Feed settings',
+	'ACP_FEED'			=> 'Besleme yönetimi',
+	'ACP_FEED_SETTINGS'		=> 'Besleme ayarları',
 
 	'ACP_SEARCH'			=> 'Arama yapılandırması',
 	'ACP_SEARCH_INDEX'		=> 'Arama indeksi',
@@ -178,7 +178,7 @@ $lang = array_merge($lang, array(
 	'ACP_STYLES_CACHE'		=> 'Önbelleği Temizle',
 	'ACP_STYLES_INSTALL'		=> 'Stiller yükle',
 
-	'ACP_SUBMIT_CHANGES'		=> 'Submit changes',
+	'ACP_SUBMIT_CHANGES'		=> 'Değişiklikleri gönder',
 
 	'ACP_TEMPLATES'			=> 'Şablonlar',
 	'ACP_THEMES'			=> 'Temalar',
@@ -202,7 +202,7 @@ $lang = array_merge($lang, array(
 	'ACP_USER_SIG'			=> 'İmza',
 	'ACP_USER_WARNINGS'		=> 'Uyarılar',
 
-	'ACP_VC_SETTINGS'			=> 'Spambot countermeasures',
+	'ACP_VC_SETTINGS'			=> 'Spambot karşı önlemler',
 	'ACP_VC_CAPTCHA_DISPLAY'		=> 'CAPTCHA image preview',
 	'ACP_VERSION_CHECK'			=> 'Check for updates',
 	'ACP_VIEW_ADMIN_PERMISSIONS'		=> 'View administrative permissions',
@@ -216,7 +216,7 @@ $lang = array_merge($lang, array(
 	'ACTION'				=> 'Action',
 	'ACTIONS'				=> 'Actions',
 	'ACTIVATE'				=> 'Activate',
-	'ADD'					=> 'Add',
+	'ADD'					=> 'Ekle',
 	'ADMIN'					=> 'Administration',
 	'ADMIN_INDEX'			=> 'Admin index',
 	'ADMIN_PANEL'			=> 'Yönetici Kontrol Paneli',
