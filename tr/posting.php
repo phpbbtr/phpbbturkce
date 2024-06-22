@@ -65,7 +65,7 @@ $lang = array_merge($lang, array(
 	'BBCODE_U_HELP'				=> 'Altı çizili metin: [u]metin[/u]',
 	'BBCODE_W_HELP'				=> 'URL ekle: [url]http://url[/url] veya [url=http://url]URL metni[/url]',
 	'BBCODE_Y_HELP'				=> 'Liste: Liste öğesi ekle',
-	'BUMP_ERROR'				=> 'Son mesajınızdan bu kadar kısa süre sonra bu konuyu açamazsınız.',
+	'BUMP_ERROR'				=> 'Son mesajınızdan bu kadar kısa süre sonra bu konuyu öne çıkaramazsınız.',
 
 	'CANNOT_DELETE_REPLIED'		=> 'Üzgünüz ancak yalnızca yanıtlanmayan gönderileri silebilirsiniz.',
 	'CANNOT_EDIT_POST_LOCKED'	=> 'Bu mesaj kilitlendi. Artık bu mesajı düzenleyemezsiniz.',
